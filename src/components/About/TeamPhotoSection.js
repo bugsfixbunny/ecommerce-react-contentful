@@ -2,7 +2,7 @@ import React from "react"
 
 function TeamPhotoSection() {
   return (
-    <div className="row">
+    <div>
       <div className="col-10 col-sm-8 mx-auto">
         <div className="card-group">
           <div className="card">
