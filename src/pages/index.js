@@ -11,7 +11,7 @@ import DualInfoBlock from "../components/Reusable/DualInfoBlock"
 import Coursecart from "../components/cart/Coursecart"
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Home"/>
     <HeroesSection
       img={data.img.childImageSharp.fluid}
       title="I write code"

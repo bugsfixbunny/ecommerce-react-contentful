@@ -23,7 +23,7 @@ const ContactPage = ({ data }) => (
     <InfoBlock heading="How can we help" />
     <Contact/>
   </Layout>
-) 
+)   
 
 export const query = graphql`
   {
